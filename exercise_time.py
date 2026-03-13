@@ -14,4 +14,4 @@ def time():
     print(minutos)
     print(total_segundos-3660)
 
-time()
+#time()

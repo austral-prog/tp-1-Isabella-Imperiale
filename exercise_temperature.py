@@ -12,4 +12,4 @@ def temperature():
     print(F)
     print(celsius)
 
-temperature()
+#temperature()

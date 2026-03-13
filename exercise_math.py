@@ -23,5 +23,5 @@ def math():
     print(a/b)
 #la sangría me dice que está dentro de la función
 
-math()
+#math()
 #Para ejecutar el código dentro de la función

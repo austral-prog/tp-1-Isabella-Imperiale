@@ -20,4 +20,4 @@ def grades():
     print(minima)
     print(puntos_faltantes)
 
-grades()
+#grades()

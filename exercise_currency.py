@@ -18,4 +18,4 @@ def currency():
     print(monto_euro)
     print(monto_real)
 
-currency()
+#currency()

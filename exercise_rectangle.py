@@ -11,4 +11,4 @@ def rectangle():
     print(base*altura)
     print(2*base + 2*altura)
 
-rectangle()
+#rectangle()

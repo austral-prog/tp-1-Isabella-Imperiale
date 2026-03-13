@@ -18,4 +18,4 @@ def price():
     print(propina)
     print(precio_final)
 
-price()
+#price()

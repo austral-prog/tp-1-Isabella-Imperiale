@@ -9,4 +9,4 @@ def triangle():
     altura = 6
     print((base*altura)/2)
 
-triangle()
+#triangle()
