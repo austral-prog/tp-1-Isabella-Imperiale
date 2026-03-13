@@ -1,4 +1,5 @@
 def math():
+#def: A algo (la función) lo define / dice que es un monton de cosas (el programa de la función)
     """
     Ejercicio 1 - Operaciones Matemáticas
 
@@ -13,3 +14,14 @@ def math():
     """
     a = 57
     b = 7
+    print(a + b)
+    print(a-b)
+    print(a*b)
+    print((a+b)/2)
+    print(a//b)
+    print(a%b)
+    print(a/b)
+#la sangría me dice que está dentro de la función
+
+math()
+#Para ejecutar el código dentro de la función
